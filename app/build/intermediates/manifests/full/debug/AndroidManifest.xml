@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lp1.familymap"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.lp1.familymap.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.lp1.familymap.AmapActivity"
+            android:label="@string/title_activity_amap"
+            android:parentActivityName="com.example.lp1.familymap.PersonActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myfirstapp.PersonActivity" />
+        </activity>
+        <activity
+            android:name="com.example.lp1.familymap.PersonActivity"
+            android:label="@string/title_activity_person"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.lp1.familymap.model.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name="com.example.lp1.familymap.FilterActivity"
+            android:label="@string/title_activity_filter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.lp1.familymap.SearchActivity"
+            android:label="@string/title_activity_search"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="com.example.lp1.familymap.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.lp1.familymap.PersonExpandableListActivity"
+            android:label="@string/title_activity_person_expandable_list"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <uses-library
+            android:name="com.amazon.application.compatibility.enforcer"
+            android:required="false" />
+
+        <meta-data
+            android:name="required_amazon_package:com.amazon.geo.mapsv2.services"
+            android:value="@integer/amazon_maps_services_version" />
+        <meta-data
+            android:name="amazon_maps_services_required"
+            android:value="true" />
+    </application>
+
+</manifest>

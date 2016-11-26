@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/src/main/res/xml/pref_headers.xml"
+    }
+]

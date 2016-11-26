@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 194,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 194,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 162,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 162,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 90,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 90,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 200,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 200,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 168,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 168,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 96,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 96,
+                        "endOffset": 1236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 69,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1241,
+                        "endColumn": 69,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 53,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter_2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1311,
+                        "endColumn": 53,
+                        "endOffset": 1360
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/res/merged/debug/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 194,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 194,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 162,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 162,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 90,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 90,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 200,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 200,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 168,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 168,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 96,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1144,
+                        "endColumn": 96,
+                        "endOffset": 1236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 69,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1241,
+                        "endColumn": 69,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 53,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "/Users/lp1/Documents/BYU/Winter 2016/cs_240/FamilyMap/app/build/intermediates/exploded-aar/FamilyMap/amazon-maps-api-v2/unspecified/res/values-en/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1311,
+                        "endColumn": 53,
+                        "endOffset": 1360
+                    }
+                }
+            }
+        ]
+    }
+]
